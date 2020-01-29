@@ -4,11 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Home
 - type: document
   path: content/home/contact.md
   label: Contact
-- type: heading
-  label: Home
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
