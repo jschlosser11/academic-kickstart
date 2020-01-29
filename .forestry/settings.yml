@@ -9,6 +9,12 @@ sections:
 - type: document
   path: content/home/contact.md
   label: Contact
+- type: heading
+  label: Exterior
+- type: document
+  path: content/exterior/contact.md
+  label: Contact
+  match: "**/*"
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
