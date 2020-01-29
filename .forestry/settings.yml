@@ -19,6 +19,11 @@ sections:
 - type: document
   path: content/roof/contact.md
   label: Contact
+- type: heading
+  label: Decks-Fencing
+- type: document
+  path: content/decks-fencing/contact.md
+  label: Contact
   match: "**/*"
 upload_dir: static/img
 public_path: "/img"
