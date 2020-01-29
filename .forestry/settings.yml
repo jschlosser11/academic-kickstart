@@ -15,7 +15,7 @@ sections:
   path: content/exterior/contact.md
   label: Contact
 - type: directory
-  path: content/exterior/gallery
+  path: content/exterior/gallery/gallery
   label: Gallery
   create: all
   match: "**/*"
