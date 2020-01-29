@@ -4,14 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/home/contact.md
+  label: Contact
+  match: "**/*"
 - type: heading
-  label: Pages
-- type: directory
-  path: content/home
   label: Home
-  create: all
-  match: "*"
-  exclude: Acadamia
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
