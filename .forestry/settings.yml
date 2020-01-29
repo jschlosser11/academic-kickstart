@@ -11,6 +11,7 @@ sections:
   label: Home
   create: all
   match: "*"
+  exclude: Acadamia
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
