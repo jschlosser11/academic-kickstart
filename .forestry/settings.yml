@@ -14,6 +14,10 @@ sections:
 - type: document
   path: content/exterior/contact.md
   label: Contact
+- type: document
+  path: content/exterior/gallery/gallery
+  label: Gallery
+  match: "**/*"
 - type: directory
   path: content/exterior/gallery/gallery
   label: Gallery
