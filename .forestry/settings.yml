@@ -17,7 +17,7 @@ sections:
 - type: directory
   path: content/exterior/gallery/gallery
   label: Gallery
-  create: documents
+  create: all
   match: "**/*"
 - type: heading
   label: Roof
