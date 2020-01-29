@@ -24,6 +24,11 @@ sections:
 - type: document
   path: content/decks-fencing/contact.md
   label: Contact
+- type: heading
+  label: Driveways-Sidewalks
+- type: document
+  path: content/driveways-sidewalks/contact.md
+  label: Contact
   match: "**/*"
 upload_dir: static/img
 public_path: "/img"
