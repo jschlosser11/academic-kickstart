@@ -1,6 +1,6 @@
 ---
-title: Exterior Wash
-summary: Algae, mold, mildew, and insect-debris flourish in our local climate and all of which negatively effect your homes appearance. We are proudly equipped to tackle this daunting house cleaning task, and strive for the cleanest surface possible. 
+title: House Washing	
+summary: Algae, mold, mildew, and insect-debris flourish in our local climate and all of which negatively effect your homes appearance. We are proudly equipped to tackle this daunting house cleaning task, and strive for the cleanest surface possible.  
 tags:
 - Demo
 - robotics

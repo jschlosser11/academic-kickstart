@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Allstar Exterior Wash - Exterior Cleaning
+name: Allstar Exterior Wash - House Washing
 avatar_image: ""
 # Username (this should match the folder name)
 authors:
