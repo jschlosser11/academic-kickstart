@@ -19,7 +19,7 @@
 
 ## Install
 
-You can choose from 1 of the following four methods to install:
+You can choose from one of the following four methods to install:
 
 * [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
 * [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
