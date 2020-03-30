@@ -47,6 +47,6 @@ user_groups:
 - Visitors
 ---
 
-The appearance of most homes suffer from a streaked or dingy looking roof. Thankfully, we specialize in maximizing your homes appearance by offering a safe roof cleaning option. 
+Professional results on driveways and sidewalks is largely dependent upon the method of cleaning used by your service provider. The goal on these services is a long lasting and stripe free appearance. We use more than just pressurized water to eradicate the contaminants that thrive on these services. We let our industrial cleaners do the legwork prior to placing our machinery on the surface. 
 
-Our roof cleaning methods will give your roof that like new look we all desire. One low-pressure treatment will eradicate all the organic filth that has called your roof home. In some sever instances roof damage will occur if the growth continues with no treatment. We proudly clean all roof types. Expect a uniform, nice looking roof for years to follow when you utilize our professional roof cleaning services.
+Annual treatments are our recommendation, but driveways and sidewalks that have not been serviced for many years can still be restored with our methods. We would love to whip your homes entryways back into shape today.

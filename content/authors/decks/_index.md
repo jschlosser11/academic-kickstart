@@ -47,6 +47,6 @@ user_groups:
 - Visitors
 ---
 
-The appearance of most homes suffer from a streaked or dingy looking roof. Thankfully, we specialize in maximizing your homes appearance by offering a safe roof cleaning option. 
+All Star Exterior Wash, LLC. provides professional results on all of your exterior surfaces. We service pool decks, pool enclosures, lanais, wood decks, fencing, sheds, screened enclosures, sidewalks, driveways, exterior siding, and roofs.
 
-Our roof cleaning methods will give your roof that like new look we all desire. One low-pressure treatment will eradicate all the organic filth that has called your roof home. In some sever instances roof damage will occur if the growth continues with no treatment. We proudly clean all roof types. Expect a uniform, nice looking roof for years to follow when you utilize our professional roof cleaning services.
+ When it comes to exterior cleaning, if it’s dirty we most likely can make it look great again. We would love to help make your property look it’s best. 
