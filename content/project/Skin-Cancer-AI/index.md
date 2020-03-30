@@ -1,6 +1,6 @@
 ---
 title: Driveways & Sidewalks
-summary: text
+summary: Professional results on driveways and sidewalks is largely dependent upon the method of cleaning used by your service provider. The goal on these services is a long lasting and stripe free appearance. We would love to whip your homes entryways back into shape today.
 tags:
 - human
 date: "2016-02-27T00:00:00Z"
