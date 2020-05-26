@@ -1,6 +1,6 @@
 ---
-title: Fencing & Decks
-summary: All Star Exterior Wash, LLC. provides professional results on all of your exterior surfaces. We service pool decks, pool enclosures, lanais, wood decks, fencing, sheds, screened enclosures, sidewalks, driveways, exterior siding, and roofs. We would love to help make your property look it’s best. 
+title: Decks & Fencing
+summary: All Star Exterior Wash, LLC. provides professional results on all of your exterior surfaces. We service pool decks, pool enclosures, lanais, wood decks, fencing, sheds, screened enclosures, sidewalks, driveways, exterior siding, and roofs. We would love to help make your property look it’s best.
 tags:
 - Deep Learning
 date: "2016-01-27T00:00:00Z"
