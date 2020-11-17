@@ -4,7 +4,12 @@
 
 .navbar {
   min-height: 70px !important;
-  position: fixed;
+
+}
+
+.quote-btn:hover {
+  background-color: white !important;
+
 }
 
 .navbar-light {
@@ -197,3 +202,11 @@ nav#navbar-main li.nav-item {
     display: block !important;
   }
 }
+
+@media screen and (max-width: 1200px) {
+
+  .quote-btn {
+    line-height: 1rem;
+  }
+}
+
